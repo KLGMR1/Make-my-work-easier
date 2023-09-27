@@ -1,0 +1,29 @@
+echo "# Make-my-work-easier" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/KLGMR1/Make-my-work-easier.git
+git push -u origin main
+// the purpose of this thing is to make my job easier. My work has me physically pulling info from the tags we have on the floor, writing the name, item number, price then counting it.
+// honestly not hard, but the time consumption from writing all the words numbers and whatnot is far too much to do for my job. minimum wage does not mean no brain, means i need cash and a place to start.
+// tldr, i dont wanna do allat
+// i think, ill set up a thing for my phone to scan the codes, import them to a google sheet and then i input a number after i count the things. essentially. i will only count what we have. i am lazy.
+
+actions(
+  scan
+  import
+  import_num 
+);
+function(scan)
+
+);
+
+function(import)
+
+);
+
+Function(import_num)
+
+);
+  
